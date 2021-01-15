@@ -1,0 +1,15 @@
+{
+    "dapps": [{
+        "name": "DeFi Era",
+        "url": "http://hashpay.gitee.io/#/index",
+        "des": "DeFi Era",
+        "logo": "http://hashpay.gitee.io/dappConfig/app/imgs/dappLogo/defieraLogo.png"
+    }],
+    "banners": [{
+        "image": "banner1.png",
+        "url": ""
+    },{
+        "image": "banner2.png",
+        "url": ""
+    }]
+}
